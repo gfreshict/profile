@@ -1,3 +1,3 @@
 Interstellar
 Transformers
-THe Lorax
+The Lorax
